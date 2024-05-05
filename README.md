@@ -2,6 +2,11 @@
 <h1 align="center">Hi 👋, I'm John Mbugua</h1>
 <h3 align="center">I'm a passionate Full Stack Web Developer</h3>
 <img src="https://images.prismic.io/turing/652ecc32fbd9a45bcec81b2a_Build_a_Verification_Code_Component_With_a_React_Custom_Hook_scaled_26dc1ecb0a.webp?auto=format,compress" alt="coding_manenos" align="right" width="400" />
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mbugua70&label=Profile%20views&color=0e75b6&style=flat" alt="mbugua70" /> </p>
+
+<p align="left"> <a href="https://twitter.com/johnmbugua01" target="blank"><img src="https://img.shields.io/twitter/follow/johnmbugua01?logo=twitter&style=for-the-badge" alt="johnmbugua01" /></a> </p>
+
 <p>I currently work for iGuru and Mindmill Limited, proficient in a variety of modern web development technologies. </p>
 <p>I also hold the role of Community Manager for <a>luxtechacademy</a>, where I actively engage with members of the tech community. Alongside the <a>Lux dev</a> team and <a>DSEA</a>, I curate inspiring content, craft visually captivating posters, and disseminate encouraging quotes to fuel the coding passion within our community.</p>
 
