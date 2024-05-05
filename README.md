@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/johnmbugua01" target="blank"><img src="https://img.shields.io/twitter/follow/johnmbugua01?logo=twitter&style=for-the-badge" alt="johnmbugua01" /></a> </p>
 
-<p>I currently work for iGuru and Mindmill Limited, proficient in a variety of modern web development technologies. </p>
+
 <p>I also hold the role of Community Manager for <a>luxtechacademy</a>, where I actively engage with members of the tech community. Alongside the <a>Lux dev</a> team and <a>DSEA</a>, I curate inspiring content, craft visually captivating posters, and disseminate encouraging quotes to fuel the coding passion within our community.</p>
 
 
