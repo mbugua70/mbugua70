@@ -1,15 +1,10 @@
 [![MasterHead](https://camo.githubusercontent.com/6273a6a53a5107e91f5e6666f7355198ccd9e88eceba3837a0c9c008e00897b1/68747470733a2f2f7777772e63617265657267756964652e636f6d2f6361726565722f77702d636f6e74656e742f75706c6f6164732f323032302f30332f66756c6c2d737461636b2d646576656c6f706d656e742e676966)](https://mbugua70.io)
 <h1 align="center">Hi 👋, I'm John Mbugua</h1>
 <h3 align="center">I'm a passionate Full Stack Web Developer</h3>
+<img src="https://images.prismic.io/turing/652ecc32fbd9a45bcec81b2a_Build_a_Verification_Code_Component_With_a_React_Custom_Hook_scaled_26dc1ecb0a.webp?auto=format,compress" alt="coding_manenos" align="right" width="400" />
 <p>I currently work for iGuru and Mindmill Limited, proficient in a variety of modern web development technologies. </p>
 <p>I also hold the role of Community Manager for <a>luxtechacademy</a>, where I actively engage with members of the tech community. Alongside the <a>Lux dev</a> team and <a>DSEA</a>, I curate inspiring content, craft visually captivating posters, and disseminate encouraging quotes to fuel the coding passion within our community.</p>
-<img src="https://images.prismic.io/turing/652ecc32fbd9a45bcec81b2a_Build_a_Verification_Code_Component_With_a_React_Custom_Hook_scaled_26dc1ecb0a.webp?auto=format,compress" alt="coding_manenos" align="right" width="400" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mbugua70&label=Profile%20views&color=0e75b6&style=flat" alt="mbugua70" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mbugua70" alt="mbugua70" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/johnmbugua01" target="blank"><img src="https://img.shields.io/twitter/follow/johnmbugua01?logo=twitter&style=for-the-badge" alt="johnmbugua01" /></a> </p>
 
 - 🔭 I’m currently working on **React, Next.js web app using Typescript, Javascript and also mobile app using ionic, capacitor and cordova.**
 
