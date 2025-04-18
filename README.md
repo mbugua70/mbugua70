@@ -14,7 +14,7 @@
 - 🔭 I’m currently working on **React, Next.js web app using Typescript, Javascript, and for mobile react native and  expo.**
 - I have also used ionic, capacitor, cordova to build mobile apps - used this technology to convert my vanilla react project to mobile app.
 
-- 🌱 I’m currently learning **Ne, Typescript**
+- 🌱 I’m currently expoloring ** , expo and react native so that i can be so solid in them **
 
 - 👨‍💻 All of my projects are available at [https://github.com/mbugua70](https://github.com/mbugua70)
 
