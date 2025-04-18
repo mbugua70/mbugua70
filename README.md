@@ -11,9 +11,10 @@
 <p>I also hold the role of Community Manager for <a>luxtechacademy</a>, where I actively engage with members of the tech community. Alongside the <a>Lux dev</a> team and <a>DSEA</a>, I curate inspiring content, craft visually captivating posters, and disseminate encouraging quotes to fuel the coding passion within our community.</p>
 
 
-- 🔭 I’m currently working on **React, Next.js web app using Typescript, Javascript and also mobile app using ionic, capacitor and cordova.**
+- 🔭 I’m currently working on **React, Next.js web app using Typescript, Javascript, and for mobile react native and  expo.**
+- I have also used ionic, capacitor, cordova to build mobile apps - used this technology to convert my vanilla react project to mobile app.
 
-- 🌱 I’m currently learning **Next.js, Typescript**
+- 🌱 I’m currently learning **Ne, Typescript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mbugua70](https://github.com/mbugua70)
 
