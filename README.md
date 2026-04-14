@@ -31,7 +31,8 @@
 ### 🛠️ Open Source Projects
 
 #### 🔹 [react-native-receipt-printer](https://github.com/mbugua70/react-native-receipt-printer)
-A React Native library for printing thermal receipts over Bluetooth, with support for device connection and dynamic receipt generation. Currently in early development.
+ A React Native library for Bluetooth thermal receipt printing. Includes ESC/POS encoding, fluent receipt builder, print
+ queue, retry logic, and real-time status events.
 
 ---
 
