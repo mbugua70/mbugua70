@@ -36,6 +36,11 @@
 
 ---
 
+#### 🔹 [smart-ota](https://github.com/mbugua70/smart-ota)
+Intelligent OTA update management for Expo EAS Updates. Adds silent, optional, and critical update modes, automatic reload strategies, update policies, foreground checks, and seamless production update orchestration for React Native and Expo apps.
+
+---
+
 ### ✍️ Writing
 - https://dev.to/mbugua70
 
